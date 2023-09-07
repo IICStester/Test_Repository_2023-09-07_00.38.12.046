@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "2le2fhS22tHbfbAZx0N3in",
-    "name" : "Versioned Mapping - Rename renamed",
+    "id" : "5AgIQgdi2I1ka1PBT3ms8U",
+    "name" : "Versioned Mapping - Delete",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "010000170000000000D3"
+        "repoHandle" : "010000170000000000DG"
       },
       "contextAttributes" : [ {
         "name" : "id",
